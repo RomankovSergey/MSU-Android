@@ -11,9 +11,8 @@
 - Экран авторизации, тут будет происходить авторизация в VK;
 - Экран список друзей. После авторизации тут будет отображаться список всех друзей пользователя. 
 
-[Ссылка на API VK](https://vk.com/dev/access_token)
+[Ссылка на API VK](https://vk.com/dev/first_guide)
 
-Если будут вопросы, можете писать в [VK](https://vk.com/romankov94)
 
 Полезные ссылки для изучение материала 
 - Android Studio -  https://developer.android.com/studio/index.html
